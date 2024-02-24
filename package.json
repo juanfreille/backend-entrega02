@@ -2,9 +2,9 @@
   "name": "desafio_02",
   "version": "1.0.0",
   "description": "Desafío numero 2 de backend, Gestor de productos",
-  "main": "productManager.js",
+  "main": "ProductManager.js",
   "scripts": {
-    "start": "node productManager.js"
+    "start": "node ProductManager.js"
   },
   "author": "",
   "license": "ISC"
